@@ -1,0 +1,5 @@
+com\bhfl\webhookapp\model\WebhookResponse.class
+com\bhfl\webhookapp\model\WebhookRequest.class
+com\bhfl\webhookapp\WebhookappApplication.class
+com\bhfl\webhookapp\service\WebhookService.class
+com\bhfl\webhookapp\model\SqlSolutionRequest.class
